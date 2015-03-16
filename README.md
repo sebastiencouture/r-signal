@@ -52,6 +52,7 @@ signal.on(onStart, this);
 
 function onStart() {
 }
+```
 
 #### once(callback, context)
 
