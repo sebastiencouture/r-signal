@@ -1,7 +1,7 @@
 R Signal [![Build Status](https://secure.travis-ci.org/sebastiencouture/r-signal.png?branch=master)](https://travis-ci.org/sebastiencouture/r-signal)
 ===
 
-Custom event dispatching library for the browser and Node.js. Inspired by AS3 signals library.
+Custom event/messaging library for the browser and Node.js. Inspired by AS3 signals library.
 
 Similar to other event dispatching mechanisms such as event emitters, or buses. But instead of registering for events by
 string name you register on a signal object responsible for one event.
@@ -155,13 +155,17 @@ signal.trigger(); // onStart will be called
 
 ## Running the Tests
 
-```javascript
+```
 grunt test
 ```
 
 ## Installation
 
 The library is UMD compliant. Registers on `window.Signal` for global.
+
+```
+npm install r-signal
+```
 
 ## Browser Support
 
