@@ -17,7 +17,8 @@ var started = new Signal();
 started.on(onStartA);
 started.on(onStartB);
 
-// Trigger the signal. onStartA and onStartB will be called with "oh ya" as the message
+// Trigger the signal. onStartA and onStartB will be called with "oh ya" as
+// the message
 started.trigger("oh ya");
 
 // Remove a listener
