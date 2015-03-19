@@ -1,8 +1,8 @@
 /*!
-r-signal.js - v0.1.0
-Created by Sebastien Couture on 2015-03-15.
+recurve-signal.js - v0.1.0
+Created by Sebastien Couture on 2015-03-18.
 
-git://github.com/sebastiencouture/r-signal.git
+git://github.com/sebastiencouture/recurve-signal.git
 
 The MIT License (MIT)
 

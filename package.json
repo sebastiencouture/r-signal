@@ -1,10 +1,10 @@
 {
-    "name": "r-signal",
+    "name": "recurve-signal",
     "author": "Sebastien Couture",
     "version": "0.1.0",
     "repository": {
         "type": "git",
-        "url": "git://github.com/sebastiencouture/r-signal.git"
+        "url": "git://github.com/sebastiencouture/recurve-signal.git"
     },
     "license": "MIT",
     "engines": {

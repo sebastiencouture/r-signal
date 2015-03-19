@@ -1,4 +1,4 @@
-R Signal [![Build Status](https://secure.travis-ci.org/sebastiencouture/r-signal.png?branch=master)](https://travis-ci.org/sebastiencouture/r-signal)
+recurve-signal [![Build Status](https://secure.travis-ci.org/sebastiencouture/recurve-signal.png?branch=master)](https://travis-ci.org/sebastiencouture/recurve-signal)
 ===
 
 Custom event/messaging library for the browser and Node.js. Inspired by AS3 signals library.
@@ -28,7 +28,7 @@ started.off(onStartA);
 started.trigger("oh no");
 ```
 
-For more examples, take a look at the [unit tests](test/r-signal.spec.js)
+For more examples, take a look at the [unit tests](test/recurve-signal.spec.js)
 
 ### Creating a Signal
 
@@ -165,7 +165,7 @@ grunt test
 The library is UMD compliant. Registers on `window.Signal` for global.
 
 ```
-npm install r-signal
+npm install recurve-signal
 ```
 
 ## Browser Support

@@ -1,8 +1,8 @@
 {
-  "name": "r-signal",
+  "name": "recurve-signal",
   "version": "0.0.0",
   "author": "Sebastien Couture",
-  "main": "dist/r-signal.js",
+  "main": "dist/recurve-signal.js",
   "license": "MIT",
   "ignore": [
       "**/.*",
