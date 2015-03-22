@@ -1,6 +1,6 @@
 {
   "name": "recurve-signal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Sebastien Couture",
   "main": "dist/recurve-signal.js",
   "license": "MIT",

@@ -1,7 +1,7 @@
 {
     "name": "recurve-signal",
     "author": "Sebastien Couture",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "main": "src/recurve-signal.js",
     "repository": {
         "type": "git",
